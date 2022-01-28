@@ -11,6 +11,7 @@ b-> url gambar 1
 c -> url gambar 2
 
 jalankan node index.js -> hasil.txt
+di windows jalankan node index.js -> hasil
 
 nanti semua hasil akan ada di hasil.txt
 hasilnya adalah persentase. semakin kecil semakin mirip
